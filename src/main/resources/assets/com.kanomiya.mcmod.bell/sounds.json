@@ -1,0 +1,10 @@
+{
+  "clapper_bell": {
+    "subtitle": "com.kanomiya.mcmod.bell.subtitle.clapper_bell",
+    "sounds": ["com.kanomiya.mcmod.bell:clapper_bell"]
+  },
+  "strike_bell": {
+    "subtitle": "com.kanomiya.mcmod.bell.subtitle.strike_bell",
+    "sounds": ["com.kanomiya.mcmod.bell:strike_bell"]
+  }
+}

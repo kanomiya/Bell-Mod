@@ -1,0 +1,12 @@
+[
+{
+  "modid": "com.kanomiya.mcmod.bell",
+  "name": "Bell Mod",
+  "description": "Adds bells",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://kanomiya.com/",
+  "authorList": ["Kanomiya"],
+  "dependencies": []
+}
+]

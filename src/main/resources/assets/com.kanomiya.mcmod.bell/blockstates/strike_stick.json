@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=south": { "model": "com.kanomiya.mcmod.bell:strike_stick" },
+    "facing=north": { "model": "com.kanomiya.mcmod.bell:strike_stick" },
+    "facing=east": { "model": "com.kanomiya.mcmod.bell:strike_stick" },
+    "facing=west": { "model": "com.kanomiya.mcmod.bell:strike_stick" }
+  }
+}

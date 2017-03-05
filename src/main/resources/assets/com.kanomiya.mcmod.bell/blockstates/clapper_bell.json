@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=south": { "model": "com.kanomiya.mcmod.bell:clapper_bell" },
+    "facing=west": { "model": "com.kanomiya.mcmod.bell:clapper_bell", "y": 90 },
+    "facing=north": { "model": "com.kanomiya.mcmod.bell:clapper_bell", "y": 180 },
+    "facing=east": { "model": "com.kanomiya.mcmod.bell:clapper_bell", "y": 270 }
+  }
+}
