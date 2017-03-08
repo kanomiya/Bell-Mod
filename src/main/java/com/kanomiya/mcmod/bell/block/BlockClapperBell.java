@@ -33,6 +33,9 @@ public class BlockClapperBell extends BlockHorizontal implements IBell {
         setLightOpacity(0);
         translucent = true;
         useNeighborBrightness = true;
+
+        setHardness(3.5f);
+        setResistance(50f);
     }
 
     @Override

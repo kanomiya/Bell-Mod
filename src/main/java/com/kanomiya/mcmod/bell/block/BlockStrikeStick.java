@@ -37,6 +37,9 @@ public class BlockStrikeStick extends BlockHorizontal implements ITileEntityProv
         setLightOpacity(0);
         translucent = true;
         useNeighborBrightness = true;
+
+        setHardness(2f);
+        setResistance(5f);
     }
 
     @Override

@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2017 和宮 葵(Kanomiya Aoi)
+ */
+
 package com.kanomiya.mcmod.bell.block;
 
 import net.minecraft.util.SoundEvent;
