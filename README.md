@@ -22,7 +22,7 @@
 
 ## リソース
 
-- 鐘の音は田中 宏さんの「[[http://www.geocities.jp/hirogamesoft/se_d/se_d.html|効果音エディタ_D]]」を使って作成しました。
-- 鐘のモデルはMrCrayfishさんの「[[https://mrcrayfish.com/tools?id=mc|Model Creator]]」を使って作成しました。
+- 鐘の音は田中 宏さんの「[効果音エディタ_D](http://www.geocities.jp/hirogamesoft/se_d/se_d.html)」を使って作成しました。
+- 鐘のモデルはMrCrayfishさんの「[Model Creator](https://mrcrayfish.com/tools?id=mc)」を使って作成しました。
 
 　ありがとうこざいます。
